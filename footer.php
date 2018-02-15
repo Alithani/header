@@ -1,6 +1,6 @@
 </div>
 <div id="footer">
-&copy; <?php echo $config_author; ?>
+&copy; <?php echo"Footer"; ?>
 </div>
 </body>
 </html>
